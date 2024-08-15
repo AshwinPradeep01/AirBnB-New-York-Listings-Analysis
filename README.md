@@ -41,7 +41,7 @@ Power BI is majorily, Power Query for the data cleaning and ETL Process. DAX is 
 This project will enable hosts, investors, and city planners to understand pricing dynamics, popularity of different areas, and the overall health of the Airbnb ecosystem in New York City.
 You can also do some tweaks and work more upon it as the template is provided above.
 
-####Dashboard Template : AirBnB_Dashboard_Template.pbit
+#### Dashboard Template : AirBnB_Dashboard_Template.pbit
 
 ## Observations: Insights, Action and Opportunity
 
