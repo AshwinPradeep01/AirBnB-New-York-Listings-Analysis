@@ -4,14 +4,18 @@
 
 ![The-Airbnb-Story](https://github.com/user-attachments/assets/4513a1a0-ac89-4dde-b8f1-1554820e98c6)
 
-<details>
-  <summary style="font-weight: bold; color: blue;">Read the story</summary>
 
   In October 2007, San Francisco roommates Brian Chesky and Joe Gebbia were struggling to pay rent. During a local design conference that had filled all hotels, they saw an opportunity. They rented out air mattresses in their living room, creating a simple website called "AirBed & Breakfast."
+  <details>
+  <summary style="font-weight: bold; color: blue;">Read the story...</summary>
 
   Their first three guests each paid $80 per night, proving the concept's potential. In early 2008, they invited former roommate Nathan Blecharczyk to join as the third co-founder and CTO.
 
   The site officially launched in August 2008, eventually shortened to "Airbnb," the concept expanded beyond air mattresses to include entire homes and unique properties worldwide.
+  
+  ![Airbnb-featured-image](https://github.com/user-attachments/assets/ef22077e-3255-4e6a-bd21-26739c0fcca6)
+  [From left-to-right: Joe Gebbia,Nathan Blecharczyk,Brian Chesky
+
   
   During the 2008 presidential campaign, they came up with an audacious idea: selling politically themed breakfast cereals. They designed and produced limited-edition boxes of "Obama O's" and "Cap'n McCain's" cereal. This quirky venture proved to be a lifeline, netting them about $30,000 – crucial funds that kept Airbnb afloat during its most challenging period.
   
