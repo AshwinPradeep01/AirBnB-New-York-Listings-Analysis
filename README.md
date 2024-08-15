@@ -33,12 +33,19 @@
 ## Project Overview
 
 ### What does the project do?
-The Airbnb project provides a comprehensive analytics dashboard for New York City listings. It visualizes key metrics such as average prices, number of listings, reviews, and geographical distribution of rentals across the city's boroughs, offering insights into the local short-term rental market.
+The Airbnb project provides a comprehensive analytics dashboard for New York City listings. There are over 100K listings spread across 5 boroughs(neighbourhood groups) of the New York.
+
+Power BI is majorily, Power Query for the data cleaning and ETL Process. DAX is used for creating measures. It visualizes key metrics such as average prices, number of listings, reviews, and geographical distribution of rentals across the city's boroughs, offering insights into the local short-term rental market.
 
 ### Why is it going to be useful?
 This project will enable hosts, investors, and city planners to understand pricing dynamics, popularity of different areas, and the overall health of the Airbnb ecosystem in New York City.
+You can also do some tweaks and work more upon it as the template is provided above.
+
+####Dashboard Template : AirBnB_Dashboard_Template.pbit
 
 ## Observations: Insights, Action and Opportunity
+
+The following are the insights formed and the listed are the various actions that can be acted upon to make good use as well as opportunities for improvements are provided.
 
 ![image](https://github.com/user-attachments/assets/8fe3442b-2a6f-414d-b07a-c6e304b3b16f)
 
