@@ -40,7 +40,7 @@ This project will enable hosts, investors, and city planners to understand prici
 
 ## Observations: Insights, Action and Opportunity
 
-![image](https://github.com/user-attachments/assets/454f2420-34ca-4168-9c0d-7b31d6a208d2)
+![image](https://github.com/user-attachments/assets/8fe3442b-2a6f-414d-b07a-c6e304b3b16f)
 
 1. High Concentration of Listings in Manhattan and Brooklyn:
    - **Insight:** Both Manhattan and Brooklyn have around 42,000 listings each, indicating a high demand and supply area.
